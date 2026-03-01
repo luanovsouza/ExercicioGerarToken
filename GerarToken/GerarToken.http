@@ -1,0 +1,6 @@
+@GerarToken_HostAddress = http://localhost:5171
+
+GET {{GerarToken_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
