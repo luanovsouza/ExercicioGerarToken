@@ -14,13 +14,18 @@
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/souzza/Documentos/Exercicios/GerarToken/GerarToken/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/souzza/Documentos/Exercicios/GerarToken/GerarToken/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/souzza/Documentos/Exercicios/GerarToken/GerarToken/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/GerarToken.csproj.AssemblyReference.cache
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/GerarToken.GeneratedMSBuildEditorConfig.editorconfig
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/GerarToken.AssemblyInfoInputs.cache
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/GerarToken.AssemblyInfo.cs
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/GerarToken.csproj.CoreCompileInputs.cache
+/home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/GerarToken.MvcApplicationPartsAssemblyInfo.cs
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/GerarToken.MvcApplicationPartsAssemblyInfo.cache
+/home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/GerarToken.sourcelink.json
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/scopedcss/bundle/GerarToken.styles.css
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/staticwebassets.build.json
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/staticwebassets.development.json
@@ -37,7 +42,3 @@
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/GerarToken.pdb
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/GerarToken.genruntimeconfig.cache
 /home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/ref/GerarToken.dll
-/home/souzza/Documentos/Exercicios/GerarToken/GerarToken/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
-/home/souzza/Documentos/Exercicios/GerarToken/GerarToken/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/home/souzza/Documentos/Exercicios/GerarToken/GerarToken/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/souzza/Documentos/Exercicios/GerarToken/GerarToken/obj/Debug/net9.0/GerarToken.MvcApplicationPartsAssemblyInfo.cs

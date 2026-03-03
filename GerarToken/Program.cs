@@ -9,6 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddAuthorization();
+builder.Services.AddControllers();
 
 var secrectKey = builder.Configuration.GetSection("JWT").GetValue<string>("SecretKey");
 
@@ -54,14 +55,14 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
     app.UseSwaggerUI(opt => opt.SwaggerEndpoint("/swagger/v1/swagger.json", "GerarToken"));
 }
 
+app.MapControllers();
+
 app.UseHttpsRedirection();
 
-app.UseAuthentication();
-app.UseAuthorization();
+
 
 
 app.Run();

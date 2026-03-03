@@ -126,7 +126,7 @@
           }
         }
       },
-      "Microsoft.OpenApi/3.3.1": {
+      "Microsoft.OpenApi/2.4.1": {
         "type": "package",
         "dependencies": {
           "System.Text.Json": "8.0.5"
@@ -655,10 +655,10 @@
         "microsoft.identitymodel.tokens.nuspec"
       ]
     },
-    "Microsoft.OpenApi/3.3.1": {
-      "sha512": "8Xo42prPRLeQpcSv9sjajQQ0o+gL7rZ4HMUsNNI47iqK+bxDrIwLOGlN9fLAlTpJk0iyXRNR51zupMt5IdhU/w==",
+    "Microsoft.OpenApi/2.4.1": {
+      "sha512": "u7QhXCISMQuab3flasb1hoaiERmUqyWsW7tmQODyILoQ7mJV5IRGM+2KKZYo0QUfC13evEOcHAb6TPWgqEQtrw==",
       "type": "package",
-      "path": "microsoft.openapi/3.3.1",
+      "path": "microsoft.openapi/2.4.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -669,7 +669,7 @@
         "lib/netstandard2.0/Microsoft.OpenApi.dll",
         "lib/netstandard2.0/Microsoft.OpenApi.pdb",
         "lib/netstandard2.0/Microsoft.OpenApi.xml",
-        "microsoft.openapi.3.3.1.nupkg.sha512",
+        "microsoft.openapi.2.4.1.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
     },
@@ -850,10 +850,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 9.0.13",
-      "Microsoft.OpenApi >= 3.3.1",
-      "Swashbuckle.AspNetCore >= 10.1.4",
-      "Swashbuckle.AspNetCore.Swagger >= 10.1.4",
-      "Swashbuckle.AspNetCore.SwaggerUI >= 10.1.4"
+      "Swashbuckle.AspNetCore >= 10.1.4"
     ]
   },
   "packageFolders": {
@@ -904,19 +901,7 @@
             "target": "Package",
             "version": "[9.0.13, )"
           },
-          "Microsoft.OpenApi": {
-            "target": "Package",
-            "version": "[3.3.1, )"
-          },
           "Swashbuckle.AspNetCore": {
-            "target": "Package",
-            "version": "[10.1.4, )"
-          },
-          "Swashbuckle.AspNetCore.Swagger": {
-            "target": "Package",
-            "version": "[10.1.4, )"
-          },
-          "Swashbuckle.AspNetCore.SwaggerUI": {
             "target": "Package",
             "version": "[10.1.4, )"
           }

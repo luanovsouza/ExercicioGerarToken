@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerarToken")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3ab54e004f8558c064f52690366ba363f8efe0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerarToken")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerarToken")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

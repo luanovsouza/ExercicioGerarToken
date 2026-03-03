@@ -41,13 +41,14 @@ public class LoginController : ControllerBase
 
         var token = new JwtSecurityToken(
             issuer: _configuration["JWT:ValidIssuer"],
-            audience: _configuration["JWT:ValidIssuer"],
+            audience: _configuration["JWT:ValidAudience"],
             claims: claims,
             expires: DateTime.Now.AddMinutes(30),
             signingCredentials: credentials
         );
 
+        //Console.WriteLine($"Seu token é {new JwtSecurityTokenHandler().WriteToken(token)}");
         
-        return Ok(new JwtSecurityTokenHandler().WriteToken(token));
+        return Ok("Seu token é: " + new JwtSecurityTokenHandler().WriteToken(token));
     }
 }
